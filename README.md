@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @unknownzhu
+- 👋 Hi, I’m @unknownzhu.
 - 👀 I’m interested in springcloud and python.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on AI.
-- 📫 How to reach me 344955119@qq.com
+- 📫 How to reach me.  344955119@qq.com
 
 <!---
 unknownzhu/unknownzhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
