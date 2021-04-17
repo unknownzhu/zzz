@@ -1,0 +1,5 @@
+本地开发环境没有配置好hadoop环境，则下载
+hadoop-2.6.5至hadoop-3.2.1的winutils.exe见：https://github.com/cdarlint/winutils，若暂时不宜重启电脑，可代码中设置：
+// Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset.
+    System.setProperty("hadoop.home.dir", "D:\\Application\\Java\\winutils\\hadoop-3.0.0")
+    设置临时配置
