@@ -1,0 +1,7 @@
+1、获取HttpServletRequest:
+
+HttpServletRequest request = ((ServletRequestAttributes) RequestContextHolder.getRequestAttributes()).getRequest();
+
+2、获取HttpServletResponse:
+
+HttpServletResponse response = ((ServletRequestAttributes) RequestContextHolder.getRequestAttributes()).getResponse(); 
