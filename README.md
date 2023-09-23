@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @unknownzhu.
-- 👀 I’m interested in springcloud and python.
-- 🌱 I’m currently learning python.
+- 👋 Hi, I’m Julian.
+- 👀 I’m interested in springcloud, golang and python.
+- 🌱 I’m currently learning golang.
 - 💞️ I’m looking to collaborate on AI.
 - 📫 How to reach me.  344955119@qq.com
 
